@@ -1,0 +1,14 @@
+C:\Users\opilane\source\repos\Praktiline_too\bin\Debug\net8.0\Praktiline_too.exe
+C:\Users\opilane\source\repos\Praktiline_too\bin\Debug\net8.0\Praktiline_too.deps.json
+C:\Users\opilane\source\repos\Praktiline_too\bin\Debug\net8.0\Praktiline_too.runtimeconfig.json
+C:\Users\opilane\source\repos\Praktiline_too\bin\Debug\net8.0\Praktiline_too.dll
+C:\Users\opilane\source\repos\Praktiline_too\bin\Debug\net8.0\Praktiline_too.pdb
+C:\Users\opilane\source\repos\Praktiline_too\obj\Debug\net8.0\Praktiline_too.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\Praktiline_too\obj\Debug\net8.0\Praktiline_too.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Praktiline_too\obj\Debug\net8.0\Praktiline_too.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Praktiline_too\obj\Debug\net8.0\Praktiline_too.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Praktiline_too\obj\Debug\net8.0\Praktiline_too.dll
+C:\Users\opilane\source\repos\Praktiline_too\obj\Debug\net8.0\refint\Praktiline_too.dll
+C:\Users\opilane\source\repos\Praktiline_too\obj\Debug\net8.0\Praktiline_too.pdb
+C:\Users\opilane\source\repos\Praktiline_too\obj\Debug\net8.0\Praktiline_too.genruntimeconfig.cache
+C:\Users\opilane\source\repos\Praktiline_too\obj\Debug\net8.0\ref\Praktiline_too.dll

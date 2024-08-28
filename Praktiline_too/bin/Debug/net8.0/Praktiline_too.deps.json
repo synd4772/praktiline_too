@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Praktiline_too/1.0.0": {
+        "runtime": {
+          "Praktiline_too.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Praktiline_too/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
