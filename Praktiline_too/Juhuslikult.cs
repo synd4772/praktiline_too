@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Praktiline_too
+namespace PraktilineToo
 {
     public class Juhuslikult
     {
-        int N, M, arv;
+        int N, M;
         Random rndm = new Random();
 
         public Juhuslikult()

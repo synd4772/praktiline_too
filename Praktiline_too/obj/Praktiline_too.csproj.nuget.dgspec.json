@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\opilane\\source\\repos\\Praktiline_too\\Praktiline_too.csproj": {}
+    "C:\\Projects\\c#\\praktiline_too\\Praktiline_too\\Praktiline_too.csproj": {}
   },
   "projects": {
-    "C:\\Users\\opilane\\source\\repos\\Praktiline_too\\Praktiline_too.csproj": {
+    "C:\\Projects\\c#\\praktiline_too\\Praktiline_too\\Praktiline_too.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\Praktiline_too\\Praktiline_too.csproj",
+        "projectUniqueName": "C:\\Projects\\c#\\praktiline_too\\Praktiline_too\\Praktiline_too.csproj",
         "projectName": "Praktiline_too",
-        "projectPath": "C:\\Users\\opilane\\source\\repos\\Praktiline_too\\Praktiline_too.csproj",
-        "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\opilane\\source\\repos\\Praktiline_too\\obj\\",
+        "projectPath": "C:\\Projects\\c#\\praktiline_too\\Praktiline_too\\Praktiline_too.csproj",
+        "packagesPath": "C:\\Users\\alexm\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\c#\\praktiline_too\\Praktiline_too\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "D:\\Visual Studio IDE\\SDK\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\opilane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alexm\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
