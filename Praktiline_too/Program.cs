@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace PraktilineToo
 {
@@ -14,7 +14,8 @@ namespace PraktilineToo
                 "3 - Küsi viielt kasutajalt nimed ja vanused, salvesta nende andmeid massiivi ning väljasta summaarne vanus, aritmeetiline keskmine, vaanema ja noorema inimeste nimed ja vanused. \n" +
                 "4 - Ütle kasutajale \"Osta elevant ära!\". Senikaua korda küsimust, kuni kasutaja lõpuks ise kirjutab \"elevant\".\n" +
                 "5 - Mis arv mõtles välja arvuti? Kasuta vähemalt 5 katset, et seda teada.\n" +
-                "6 - Välju programmist.");
+                "6- Küsi kasutajalt 4 arvu ning väljasta nendest koostatud suurim neliarvuline arv.\n" +
+                "7 - Korrutustabel väljata ekraanile sellisel kujul;");
 
                 int vastus;
                 try
@@ -38,14 +39,17 @@ namespace PraktilineToo
                         new Kusitlus();
                         break;
                     case 4:
-                        new SuurimNeliarvuline();
+                        Console.WriteLine("nothing");   
                         break;
                     case 5:
                         new ArvaArv();
                         break;
                     case 6:
-                        Console.WriteLine("Lõppetamine");
-                        return;
+                        new SuurimNeliarvuline();
+                        break;
+                    case 7:
+                        new Korrutustabel();
+                        break;
                     default:
                         Console.WriteLine("Vale valik. Proovi sisesta muu arv.");
                         break;
