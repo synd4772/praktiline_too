@@ -1,0 +1,4 @@
+C:\Users\opilane\source\repos\csharp\obj\Debug\net8.0\csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\csharp\obj\Debug\net8.0\csharp.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\csharp\obj\Debug\net8.0\csharp.AssemblyInfo.cs
+C:\Users\opilane\source\repos\csharp\obj\Debug\net8.0\csharp.csproj.CoreCompileInputs.cache
