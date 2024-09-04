@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\opilane\\source\\repos\\Kollektsioonid\\Kollektsioonid.csproj": {}
+    "C:\\Users\\opilane\\Downloads\\praktiline_too\\Kollektsioonid\\Kollektsioonid.csproj": {}
   },
   "projects": {
-    "C:\\Users\\opilane\\source\\repos\\Kollektsioonid\\Kollektsioonid.csproj": {
+    "C:\\Users\\opilane\\Downloads\\praktiline_too\\Kollektsioonid\\Kollektsioonid.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\Kollektsioonid\\Kollektsioonid.csproj",
+        "projectUniqueName": "C:\\Users\\opilane\\Downloads\\praktiline_too\\Kollektsioonid\\Kollektsioonid.csproj",
         "projectName": "Kollektsioonid",
-        "projectPath": "C:\\Users\\opilane\\source\\repos\\Kollektsioonid\\Kollektsioonid.csproj",
+        "projectPath": "C:\\Users\\opilane\\Downloads\\praktiline_too\\Kollektsioonid\\Kollektsioonid.csproj",
         "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\opilane\\source\\repos\\Kollektsioonid\\obj\\",
+        "outputPath": "C:\\Users\\opilane\\Downloads\\praktiline_too\\Kollektsioonid\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

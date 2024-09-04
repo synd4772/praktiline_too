@@ -1,29 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Projects\\c#\\praktiline_too\\",
+  "WorkspaceRootPath": "C:\\Users\\opilane\\Downloads\\praktiline_too\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\c#\\praktiline_too\\Praktiline_too\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\opilane\\Downloads\\praktiline_too\\Kollektsioonid\\Kollektsioonid.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Kollektsioonid\\Kollektsioonid.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\opilane\\Downloads\\praktiline_too\\Kollektsioonid\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Kollektsioonid\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\opilane\\Downloads\\praktiline_too\\Praktiline_too\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Praktiline_too\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\c#\\praktiline_too\\Praktiline_too\\SuurimNeliarvuline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\opilane\\Downloads\\praktiline_too\\Praktiline_too\\SuurimNeliarvuline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Praktiline_too\\SuurimNeliarvuline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\c#\\praktiline_too\\Praktiline_too\\Aritmeetiline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\opilane\\Downloads\\praktiline_too\\Praktiline_too\\Aritmeetiline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Praktiline_too\\Aritmeetiline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\c#\\praktiline_too\\Praktiline_too\\Juhuslikult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\opilane\\Downloads\\praktiline_too\\Praktiline_too\\Juhuslikult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Praktiline_too\\Juhuslikult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\c#\\praktiline_too\\Praktiline_too\\Kusitlus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\opilane\\Downloads\\praktiline_too\\Praktiline_too\\Kusitlus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Praktiline_too\\Kusitlus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\c#\\praktiline_too\\Praktiline_too\\Praktiline_too.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\opilane\\Downloads\\praktiline_too\\Praktiline_too\\Praktiline_too.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Praktiline_too\\Praktiline_too.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -34,17 +42,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projects\\c#\\praktiline_too\\Praktiline_too\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\Downloads\\praktiline_too\\Praktiline_too\\Program.cs",
               "RelativeDocumentMoniker": "Praktiline_too\\Program.cs",
-              "ToolTip": "C:\\Projects\\c#\\praktiline_too\\Praktiline_too\\Program.cs",
+              "ToolTip": "C:\\Users\\opilane\\Downloads\\praktiline_too\\Praktiline_too\\Program.cs",
               "RelativeToolTip": "Praktiline_too\\Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAgwBsAAAAdAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-29T18:19:01.58Z",
               "IsPinned": true,
@@ -52,15 +60,28 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kollektsioonid.csproj",
+              "DocumentMoniker": "C:\\Users\\opilane\\Downloads\\praktiline_too\\Kollektsioonid\\Kollektsioonid.csproj",
+              "RelativeDocumentMoniker": "Kollektsioonid\\Kollektsioonid.csproj",
+              "ToolTip": "C:\\Users\\opilane\\Downloads\\praktiline_too\\Kollektsioonid\\Kollektsioonid.csproj",
+              "RelativeToolTip": "Kollektsioonid\\Kollektsioonid.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-04T06:52:22.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SuurimNeliarvuline.cs",
-              "DocumentMoniker": "C:\\Projects\\c#\\praktiline_too\\Praktiline_too\\SuurimNeliarvuline.cs",
-              "RelativeDocumentMoniker": "Praktiline_too\\SuurimNeliarvuline.cs",
-              "ToolTip": "C:\\Projects\\c#\\praktiline_too\\Praktiline_too\\SuurimNeliarvuline.cs",
-              "RelativeToolTip": "Praktiline_too\\SuurimNeliarvuline.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\Downloads\\praktiline_too\\Kollektsioonid\\Program.cs",
+              "RelativeDocumentMoniker": "Kollektsioonid\\Program.cs",
+              "ToolTip": "C:\\Users\\opilane\\Downloads\\praktiline_too\\Kollektsioonid\\Program.cs",
+              "RelativeToolTip": "Kollektsioonid\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T19:08:29.652Z",
+              "WhenOpened": "2024-09-04T05:31:11.007Z",
               "EditorCaption": ""
             },
             {
@@ -69,55 +90,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Praktiline_too.csproj",
-              "DocumentMoniker": "C:\\Projects\\c#\\praktiline_too\\Praktiline_too\\Praktiline_too.csproj",
-              "RelativeDocumentMoniker": "Praktiline_too\\Praktiline_too.csproj",
-              "ToolTip": "C:\\Projects\\c#\\praktiline_too\\Praktiline_too\\Praktiline_too.csproj",
-              "RelativeToolTip": "Praktiline_too\\Praktiline_too.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-29T18:52:38.721Z",
-              "EditorCaption": ""
+              "DocumentIndex": 3,
+              "Title": "SuurimNeliarvuline.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\Downloads\\praktiline_too\\Praktiline_too\\SuurimNeliarvuline.cs",
+              "RelativeDocumentMoniker": "Praktiline_too\\SuurimNeliarvuline.cs",
+              "ToolTip": "C:\\Users\\opilane\\Downloads\\praktiline_too\\Praktiline_too\\SuurimNeliarvuline.cs",
+              "RelativeToolTip": "Praktiline_too\\SuurimNeliarvuline.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T19:08:29.652Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Aritmeetiline.cs",
-              "DocumentMoniker": "C:\\Projects\\c#\\praktiline_too\\Praktiline_too\\Aritmeetiline.cs",
-              "RelativeDocumentMoniker": "Praktiline_too\\Aritmeetiline.cs",
-              "ToolTip": "C:\\Projects\\c#\\praktiline_too\\Praktiline_too\\Aritmeetiline.cs",
-              "RelativeToolTip": "Praktiline_too\\Aritmeetiline.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAADwvxAAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T18:42:26.363Z",
-              "EditorCaption": ""
+              "DocumentIndex": 7,
+              "Title": "Praktiline_too.csproj",
+              "DocumentMoniker": "C:\\Users\\opilane\\Downloads\\praktiline_too\\Praktiline_too\\Praktiline_too.csproj",
+              "RelativeDocumentMoniker": "Praktiline_too\\Praktiline_too.csproj",
+              "ToolTip": "C:\\Users\\opilane\\Downloads\\praktiline_too\\Praktiline_too\\Praktiline_too.csproj",
+              "RelativeToolTip": "Praktiline_too\\Praktiline_too.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-29T18:52:38.721Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Kusitlus.cs",
-              "DocumentMoniker": "C:\\Projects\\c#\\praktiline_too\\Praktiline_too\\Kusitlus.cs",
-              "RelativeDocumentMoniker": "Praktiline_too\\Kusitlus.cs",
-              "ToolTip": "C:\\Projects\\c#\\praktiline_too\\Praktiline_too\\Kusitlus.cs",
-              "RelativeToolTip": "Praktiline_too\\Kusitlus.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCkAAAAAAAAA",
+              "Title": "Aritmeetiline.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\Downloads\\praktiline_too\\Praktiline_too\\Aritmeetiline.cs",
+              "RelativeDocumentMoniker": "Praktiline_too\\Aritmeetiline.cs",
+              "ToolTip": "C:\\Users\\opilane\\Downloads\\praktiline_too\\Praktiline_too\\Aritmeetiline.cs",
+              "RelativeToolTip": "Praktiline_too\\Aritmeetiline.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvxAAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T18:19:02.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T18:42:26.363Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
+              "Title": "Kusitlus.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\Downloads\\praktiline_too\\Praktiline_too\\Kusitlus.cs",
+              "RelativeDocumentMoniker": "Praktiline_too\\Kusitlus.cs",
+              "ToolTip": "C:\\Users\\opilane\\Downloads\\praktiline_too\\Praktiline_too\\Kusitlus.cs",
+              "RelativeToolTip": "Praktiline_too\\Kusitlus.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T18:19:02.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Juhuslikult.cs",
-              "DocumentMoniker": "C:\\Projects\\c#\\praktiline_too\\Praktiline_too\\Juhuslikult.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\Downloads\\praktiline_too\\Praktiline_too\\Juhuslikult.cs",
               "RelativeDocumentMoniker": "Praktiline_too\\Juhuslikult.cs",
-              "ToolTip": "C:\\Projects\\c#\\praktiline_too\\Praktiline_too\\Juhuslikult.cs",
+              "ToolTip": "C:\\Users\\opilane\\Downloads\\praktiline_too\\Praktiline_too\\Juhuslikult.cs",
               "RelativeToolTip": "Praktiline_too\\Juhuslikult.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T18:18:04.896Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T18:18:04.896Z"
             }
           ]
         }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Praktiline_too")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4087455c53cca9bdbe2808c3e60ba99e43afbba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed892228953dad525c48d6db6ccfea23798e343d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Praktiline_too")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Praktiline_too")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
