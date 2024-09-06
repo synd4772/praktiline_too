@@ -235,7 +235,7 @@ namespace Kollektsioonid
                 }
                 else if (vastus == 2)
                 {
-                    for (int i = 0; i < items.Count(); i++)
+                    for (int i = 0; i < items.Count; i++)
                     {
                         Console.WriteLine(items[i].Name, ",");
                     }
@@ -274,7 +274,7 @@ namespace Kollektsioonid
                 }
                 else if (vastus == 3)
                 {
-                    for (int i = 0; i < inventory.Count(); i++)
+                    for (int i = 0; i < inventory.Count; i++)
                     {
                         Console.WriteLine(inventory[i].Name);
                     }
