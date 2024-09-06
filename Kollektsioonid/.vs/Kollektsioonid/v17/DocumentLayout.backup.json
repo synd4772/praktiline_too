@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\opilane\\Downloads\\praktiline_too\\Kollektsioonid\\",
+  "WorkspaceRootPath": "C:\\Projects\\c#\\praktiline_too\\Kollektsioonid\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1CDFBAA3-5350-4269-9EAE-508964B5DFBF}|Kollektsioonid.csproj|c:\\users\\opilane\\downloads\\praktiline_too\\kollektsioonid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CDFBAA3-5350-4269-9EAE-508964B5DFBF}|Kollektsioonid.csproj|c:\\projects\\c#\\praktiline_too\\kollektsioonid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CDFBAA3-5350-4269-9EAE-508964B5DFBF}|Kollektsioonid.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CDFBAA3-5350-4269-9EAE-508964B5DFBF}|Kollektsioonid.csproj|c:\\users\\opilane\\downloads\\praktiline_too\\kollektsioonid\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CDFBAA3-5350-4269-9EAE-508964B5DFBF}|Kollektsioonid.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CDFBAA3-5350-4269-9EAE-508964B5DFBF}|Kollektsioonid.csproj|c:\\users\\opilane\\downloads\\praktiline_too\\kollektsioonid\\craft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CDFBAA3-5350-4269-9EAE-508964B5DFBF}|Kollektsioonid.csproj|c:\\projects\\c#\\praktiline_too\\kollektsioonid\\craft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CDFBAA3-5350-4269-9EAE-508964B5DFBF}|Kollektsioonid.csproj|solutionrelative:craft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CDFBAA3-5350-4269-9EAE-508964B5DFBF}|Kollektsioonid.csproj|c:\\users\\opilane\\downloads\\praktiline_too\\kollektsioonid\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CDFBAA3-5350-4269-9EAE-508964B5DFBF}|Kollektsioonid.csproj|c:\\projects\\c#\\praktiline_too\\kollektsioonid\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CDFBAA3-5350-4269-9EAE-508964B5DFBF}|Kollektsioonid.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CDFBAA3-5350-4269-9EAE-508964B5DFBF}|Kollektsioonid.csproj|c:\\users\\opilane\\downloads\\praktiline_too\\kollektsioonid\\inimene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CDFBAA3-5350-4269-9EAE-508964B5DFBF}|Kollektsioonid.csproj|c:\\projects\\c#\\praktiline_too\\kollektsioonid\\funktsioonid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CDFBAA3-5350-4269-9EAE-508964B5DFBF}|Kollektsioonid.csproj|solutionrelative:funktsioonid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDFBAA3-5350-4269-9EAE-508964B5DFBF}|Kollektsioonid.csproj|c:\\projects\\c#\\praktiline_too\\kollektsioonid\\inimene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CDFBAA3-5350-4269-9EAE-508964B5DFBF}|Kollektsioonid.csproj|solutionrelative:inimene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CDFBAA3-5350-4269-9EAE-508964B5DFBF}|Kollektsioonid.csproj|c:\\users\\opilane\\downloads\\praktiline_too\\kollektsioonid\\funktsioonid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CDFBAA3-5350-4269-9EAE-508964B5DFBF}|Kollektsioonid.csproj|solutionrelative:funktsioonid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1CDFBAA3-5350-4269-9EAE-508964B5DFBF}|Kollektsioonid.csproj|c:\\projects\\c#\\praktiline_too\\kollektsioonid\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CDFBAA3-5350-4269-9EAE-508964B5DFBF}|Kollektsioonid.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,78 +42,73 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Craft.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\Downloads\\praktiline_too\\Kollektsioonid\\Craft.cs",
+              "DocumentMoniker": "C:\\Projects\\c#\\praktiline_too\\Kollektsioonid\\Craft.cs",
               "RelativeDocumentMoniker": "Craft.cs",
-              "ToolTip": "C:\\Users\\opilane\\Downloads\\praktiline_too\\Kollektsioonid\\Craft.cs",
+              "ToolTip": "C:\\Projects\\c#\\praktiline_too\\Kollektsioonid\\Craft.cs",
               "RelativeToolTip": "Craft.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAewA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T07:41:38.52Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T07:41:38.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Projects\\c#\\praktiline_too\\Kollektsioonid\\Item.cs",
+              "RelativeDocumentMoniker": "Item.cs",
+              "ToolTip": "C:\\Projects\\c#\\praktiline_too\\Kollektsioonid\\Item.cs",
+              "RelativeToolTip": "Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T07:38:50.096Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\Downloads\\praktiline_too\\Kollektsioonid\\Item.cs",
-              "RelativeDocumentMoniker": "Item.cs",
-              "ToolTip": "C:\\Users\\opilane\\Downloads\\praktiline_too\\Kollektsioonid\\Item.cs",
-              "RelativeToolTip": "Item.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T07:38:50.096Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Funktsioonid.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\Downloads\\praktiline_too\\Kollektsioonid\\Funktsioonid.cs",
+              "DocumentMoniker": "C:\\Projects\\c#\\praktiline_too\\Kollektsioonid\\Funktsioonid.cs",
               "RelativeDocumentMoniker": "Funktsioonid.cs",
-              "ToolTip": "C:\\Users\\opilane\\Downloads\\praktiline_too\\Kollektsioonid\\Funktsioonid.cs",
+              "ToolTip": "C:\\Projects\\c#\\praktiline_too\\Kollektsioonid\\Funktsioonid.cs",
               "RelativeToolTip": "Funktsioonid.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T06:57:13.291Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T06:57:13.291Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Inimene.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\Downloads\\praktiline_too\\Kollektsioonid\\Inimene.cs",
+              "DocumentMoniker": "C:\\Projects\\c#\\praktiline_too\\Kollektsioonid\\Inimene.cs",
               "RelativeDocumentMoniker": "Inimene.cs",
-              "ToolTip": "C:\\Users\\opilane\\Downloads\\praktiline_too\\Kollektsioonid\\Inimene.cs",
+              "ToolTip": "C:\\Projects\\c#\\praktiline_too\\Kollektsioonid\\Inimene.cs",
               "RelativeToolTip": "Inimene.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T06:54:42.337Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T06:54:42.337Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\Downloads\\praktiline_too\\Kollektsioonid\\Product.cs",
+              "DocumentMoniker": "C:\\Projects\\c#\\praktiline_too\\Kollektsioonid\\Product.cs",
               "RelativeDocumentMoniker": "Product.cs",
-              "ToolTip": "C:\\Users\\opilane\\Downloads\\praktiline_too\\Kollektsioonid\\Product.cs",
+              "ToolTip": "C:\\Projects\\c#\\praktiline_too\\Kollektsioonid\\Product.cs",
               "RelativeToolTip": "Product.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T06:52:52.468Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T06:52:52.468Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\Downloads\\praktiline_too\\Kollektsioonid\\Program.cs",
+              "DocumentMoniker": "C:\\Projects\\c#\\praktiline_too\\Kollektsioonid\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\opilane\\Downloads\\praktiline_too\\Kollektsioonid\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAgwHsAAAAcAAAAAAAAAA==",
+              "ToolTip": "C:\\Projects\\c#\\praktiline_too\\Kollektsioonid\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAFIAAAAAAAAAAAA2wG4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-04T06:52:33.613Z",
               "EditorCaption": ""
